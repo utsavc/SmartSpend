@@ -1,0 +1,12 @@
+body{
+    font-family: Helvetica !important;
+}
+
+div.container img.thumbnailImage{
+    width: 400px;
+    height: 300px;
+}
+
+.footer{
+    padding: 70px;
+}
